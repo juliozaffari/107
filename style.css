@@ -1,0 +1,19 @@
+body {
+background-color: lightslategray;
+}
+#rodape{
+  text-emphasis-color: blue;
+
+}
+img{
+  border-radius: 30%;
+  width: 30%;
+}
+h4{
+  font-style: initial;
+  color: red;
+}
+h1{
+  font-style: inherit;
+  color: yellowgreen ;
+}
